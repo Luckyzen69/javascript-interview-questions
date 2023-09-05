@@ -473,6 +473,7 @@
 | 448 | [What is module pattern?](#what-is-module-pattern)                                                                                                            |
 | 449 | [What is Function Composition?](#what-is-function-composition)                                                                                                |
 | 450 | [How to use await outside of async function prior to ES2022?](#how-to-use-await-outside-of-async-function-prior-to-es2022)                                    |
+| 451 | [What is an undefined value in JavaScript?](#what-is-an-undefined-value-in-javascript)                                    |
 
 1. ### What are the possible ways to create objects in JavaScript
 
@@ -8197,6 +8198,17 @@ multiplyBy2(add(2, 3));
 
 **[⬆ Back to Top](#table-of-contents)**
 
+451. ### What is an undefined value in JavaScript?
+Undefined value means the :
+
+- Variable used in the code doesn’t exist.
+- a type whose sole value is the undefined value.
+- Variable is not assigned to any value.
+- Property does not exist.
+- value is not returned.
+
+**[⬆ Back to Top](#table-of-contents)**
+
 ### Coding Exercise
 
 #### 1. What is the output of below code
@@ -10955,6 +10967,6 @@ The length of the array 'arr' has been set to 0, so the array becomes empty.
 
 The questions provided in this repository are the summary of frequently asked questions across numerous companies. We cannot guarantee that these questions will actually be asked during your interview process, nor should you focus on memorizing all of them. The primary purpose is for you to get a sense of what some companies might ask — do not get discouraged if you don't know the answer to all of them ⁠— that is ok!
 
-Good luck with your interview 😊
+Good luck with your interview 
 
 ---
