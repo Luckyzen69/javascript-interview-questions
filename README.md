@@ -8208,7 +8208,9 @@ Undefined value means the :
 - Variable is notvar b = [undefined];
 
 **[⬆ Back to Top](#table-of-contents)**
-452. ### Will this result in a crash (a[10] = 99;)?
+452. ### Will this result in a crash ?
+     -Will this result crash ?
+        (a[10] = 99;)
   Here,
   - a[6] will output undefined, but the slot still remains empty rather than filled with undefined. 
   - This may be an important in some cases. For example, when using map(), 
