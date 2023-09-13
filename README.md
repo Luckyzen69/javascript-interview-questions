@@ -446,12 +446,9 @@
 | 421 | [How to invoke an IIFE without any extra brackets?](#how-to-invoke-an-iife-without-any-extra-brackets)                                                                                     |
 | 422 | [Is that possible to use expressions in switch cases?](#is-that-possible-to-use-expressions-in-switch-cases)                                               |
 | 423 | [What is the easiest way to ignore promise errors?](#what-is-the-easiest-way-to-ignore-promise-errors)                                                                                 |
-| 424 | [How do style the console output using CSS?]
-(#how-do-style-the-console-output-using-css)                         |
-| 425 | [What is nullish coalescing operator (??)?]
-(#what-is-nullish-coalescing-operator)                                    |
-| 426 | [How do you group and nest console output?]
-(#how-do-you-group-and-nest-console-output)                       |
+| 424 | [How do style the console output using CSS?](#how-do-style-the-console-output-using-css)                         |
+| 425 | [What is nullish coalescing operator (??)?](#what-is-nullish-coalescing-operator)                                    |
+| 426 | [How do you group and nest console output?](#how-do-you-group-and-nest-console-output)                       |
 | 427 | [What is the difference between dense and sparse arrays?](#what-is-the-difference-between-dense-and-sparse-arrays)                                      |
 | 428 | [What are the different ways to create sparse arrays?](#what-are-the-different-ways-to-create-sparse-arrays)                               |
 | 429 | [What is the difference between setTimeout, setImmediate and process.nextTick?](#what-is-the-difference-between-settimeout-setimmediate-and-processnexttick)   |
@@ -463,8 +460,7 @@
 | 435 | [What is throttling?](#what-is-throttling)                                                                                                                    |
 | 436 | [What is optional chaining?](#what-is-optional-chaining)                                                                                                      |
 | 437 | [What is an environment record?](#what-is-an-environment-record)                                                                                              |
-| 438 | [How to verify if a variable is an array?]
-(#how-to-verify-if-a-variable-is-an-array)                 |
+| 438 | [How to verify if a variable is an array?](#how-to-verify-if-a-variable-is-an-array)                 |
 | 439 | [What is pass by value and pass by reference?](#what-is-pass-by-value-and-pass-by-reference)                                         |
 | 440 | [What are the differences between primitives and non-primitives?](#what-are-the-differences-between-primitives-and-non-primitives)                           |
 | 441 | [What are hidden classes?](#what-are-hidden-classes)                                                                                                          |
@@ -476,11 +472,9 @@
 | 447 | [What are compose and pipe functions?](#what-are-compose-and-pipe-functions)                                                                                  |
 | 448 | [What is module pattern?](#what-is-module-pattern)                                                                                                            |
 | 449 | [What is Function Composition?](#what-is-function-composition)                                                                                                |
-| 450 | [How to use await outside of async function prior to ES2022?](#how-to-use-await-outside-of-async-function-prior-to-es2022?)               |
-| 451 | [What is an undefined value in javaScript?] 
-(#what-is-an-undefined-value-in-javascript)       |    
-| 452 | [Will this result  crash (a[10] = 99;)?]
-(#Will-this-result-crash(a[10]=99;)?)               
+| 450 | [How to use await outside of async function prior to ES2022?](#how-to-use-await-outside-of-async-function-prior-to-es2022?)                                  |
+| 451 | [What is an undefined value in javaScript?](#what-is-an-undefined-value-in-javascript)       |    
+| 452 | [Will this result  crash?](#Will-this-result-crash)                                 |           
 
 <!--Answers -->
 1. ### What are the possible ways to create objects in JavaScript
