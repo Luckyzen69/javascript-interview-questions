@@ -472,9 +472,13 @@
 | 447 | [What are compose and pipe functions?](#what-are-compose-and-pipe-functions)                                                                                  |
 | 448 | [What is module pattern?](#what-is-module-pattern)                                                                                                            |
 | 449 | [What is Function Composition?](#what-is-function-composition)                                                                                                |
-| 450 | [How to use await outside of async function prior to ES2022?](#how-to-use-await-outside-of-async-function-prior-to-es2022)                                    |
-| 451 | [What is an undefined value in JavaScript?](#what-is-an-undefined-value-in-javascript)                                    |
+| 450 | [How to use await outside of async function prior to ES2022?](#how-to-use-await-outside-of-async-function-prior-to-es2022?)                                    |
+| 451 | [What is an undefined value in javaScript?]
+| (#what-is-an-undefined-value-in-javascript)  |    
+| 448 | [Will this result  crash (a[10] = 99;)?]
+(#Will-this-result-crash?)                               |
 
+<!--Answers -->
 1. ### What are the possible ways to create objects in JavaScript
 
    There are many ways to create objects in javascript as below
@@ -8203,9 +8207,21 @@ Undefined value means the :
 
 - Variable used in the code doesn’t exist.
 - a type whose sole value is the undefined value.
-- Variable is not assigned to any value.
-- Property does not exist.
-- value is not returned.
+- Variable is notvar b = [undefined];
+
+**[⬆ Back to Top](#table-of-contents)**
+452. ### Will this result in a crash (a[10] = 99;)?
+  Here,
+  - a[6] will output undefined, but the slot still remains empty rather than filled with undefined. 
+  - This may be an important in some cases. For example, when using map(), 
+  - empty slots will remain empty in map()’s output,
+  - but undefined slots will be remapped using the function passed to it.
+    -for example:
+    ```javascript
+    b[2] = 1;
+    console.log(b);             // (3) [undefined, empty × 1, 1]
+    console.log(b.map(e => 7)); // (3) [7,         empty × 1, 7] assigned to any value.
+   
 
 **[⬆ Back to Top](#table-of-contents)**
 
