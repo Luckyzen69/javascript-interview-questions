@@ -8210,7 +8210,7 @@ Undefined value means the :
 **[⬆ Back to Top](#table-of-contents)**
 
 
-452. ### Will this result in a crash ?
+452. ### Will this result crash ?
   (a[10] = 99;)  
    
   Here,
