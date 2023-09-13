@@ -472,9 +472,11 @@
 | 447 | [What are compose and pipe functions?](#what-are-compose-and-pipe-functions)                                                                                  |
 | 448 | [What is module pattern?](#what-is-module-pattern)                                                                                                            |
 | 449 | [What is Function Composition?](#what-is-function-composition)                                                                                                |
-| 450 | [How to use await outside of async function prior to ES2022?](#how-to-use-await-outside-of-async-function-prior-to-es2022?)                                    |
+| 450 | [How to use await outside of async function prior to ES2022?](#how-to-use-await-outside-of-async-function-prior-to-es2022?)    
+                                |
 | 451 | [What is an undefined value in javaScript?]
-| (#what-is-an-undefined-value-in-javascript)  |    
+| (#what-is-an-undefined-value-in-javascript)  |   
+                     |    
 | 448 | [Will this result  crash (a[10] = 99;)?]
 (#Will-this-result-crash?)                               |
 
