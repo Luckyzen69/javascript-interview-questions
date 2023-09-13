@@ -440,19 +440,33 @@
 | 415 | [What are the differences between spread operator and rest parameter](#what-are-the-differences-between-spread-operator-and-rest-parameter)                   |
 | 416 | [What are the different kinds of generators](#what-are-the-different-kinds-of-generators)                                                                     |
 | 417 | [What are the built-in iterables](#what-are-the-built-in-iterables)                                                                                           |
-| 418 | [What are the differences between for...of and for...in statements](#what-are-the-differences-between-forof-and-forin-statements)                             |
-| 419 | [How do you define instance and non-instance properties](#how-do-you-define-instance-and-non-instance-properties)                                             |
-| 420 | [What is the difference between isNaN and Number.isNaN?](#what-is-the-difference-between-isnan-and-numberisnan)                                               |
-| 421 | [How to invoke an IIFE without any extra brackets?](#how-to-invoke-an-iife-without-any-extra-brackets)                                                        |
-| 422 | [Is that possible to use expressions in switch cases?](#is-that-possible-to-use-expressions-in-switch-cases)                                                  |
-| 423 | [What is the easiest way to ignore promise errors?](#what-is-the-easiest-way-to-ignore-promise-errors)                                                        |
-| 424 | [How do style the console output using CSS?](#how-do-style-the-console-output-using-css)                                                                      |
-| 425 | [What is nullish coalescing operator (??)?](#what-is-nullish-coalescing-operator)                                                                             |
-| 426 | [How do you group and nest console output?](#how-do-you-group-and-nest-console-output)                                                                        |
-| 427 | [What is the difference between dense and sparse arrays?](#what-is-the-difference-between-dense-and-sparse-arrays)                                            |
-| 428 | [What are the different ways to create sparse arrays?](#what-are-the-different-ways-to-create-sparse-arrays)                                                  |
-| 429 | [What is the difference between setTimeout, setImmediate and process.nextTick?](#what-is-the-difference-between-settimeout-setimmediate-and-processnexttick)  |
-| 430 | [How do you reverse an array without modifying original array?](#how-do-you-reverse-an-array-without-modifying-original-array)                                |
+| 418 | [What are the differences between for...of and for...in statements](#what-are-the-differences-between-forof-and-forin-statements)            
+                 |
+| 419 | [How do you define instance and non-instance properties](#how-do-you-define-instance-and-non-instance-properties)        
+                                     |
+| 420 | [What is the difference between isNaN and Number.isNaN?](#what-is-the-difference-between-isnan-and-numberisnan)         
+                                      |
+| 421 | [How to invoke an IIFE without any extra brackets?](#how-to-invoke-an-iife-without-any-extra-brackets)                                                                                     |
+| 422 | [Is that possible to use expressions in switch cases?](#is-that-possible-to-use-expressions-in-switch-cases)       
+                                           |
+| 423 | [What is the easiest way to ignore promise errors?](#what-is-the-easiest-way-to-ignore-promise-errors)                                                                                 |
+| 424 | [How do style the console output using CSS?]
+(#how-do-style-the-console-output-using-css)     
+                      |
+| 425 | [What is nullish coalescing operator (??)?]
+(#what-is-nullish-coalescing-operator)          
+                            |
+| 426 | [How do you group and nest console output?]
+(#how-do-you-group-and-nest-console-output)     
+                     |
+| 427 | [What is the difference between dense and sparse arrays?](#what-is-the-difference-between-dense-and-sparse-arrays)   
+                                         |
+| 428 | [What are the different ways to create sparse arrays?](#what-are-the-different-ways-to-create-sparse-arrays)      
+                               |
+| 429 | [What is the difference between setTimeout, setImmediate and process.nextTick?](#what-is-the-difference-between-settimeout-setimmediate-and-processnexttick) 
+            |
+| 430 | [How do you reverse an array without modifying original array?](#how-do-you-reverse-an-array-without-modifying-original-array)   
+                              |
 | 431 | [How do you create custom HTML element?](#how-do-you-create-custom-html-element)                                                                              |
 | 432 | [What is global execution context?](#what-is-global-execution-context)                                                                                        |
 | 433 | [What is function execution context?](#what-is-function-execution-context)                                                                                    |
@@ -460,13 +474,19 @@
 | 435 | [What is throttling?](#what-is-throttling)                                                                                                                    |
 | 436 | [What is optional chaining?](#what-is-optional-chaining)                                                                                                      |
 | 437 | [What is an environment record?](#what-is-an-environment-record)                                                                                              |
-| 438 | [How to verify if a variable is an array?](#how-to-verify-if-a-variable-is-an-array)                                                                          |
-| 439 | [What is pass by value and pass by reference?](#what-is-pass-by-value-and-pass-by-reference)                                                                  |
-| 440 | [What are the differences between primitives and non-primitives?](#what-are-the-differences-between-primitives-and-non-primitives)                            |
+| 438 | [How to verify if a variable is an array?]
+(#how-to-verify-if-a-variable-is-an-array)      
+                      |
+| 439 | [What is pass by value and pass by reference?](#what-is-pass-by-value-and-pass-by-reference)                      
+                      |
+| 440 | [What are the differences between primitives and non-primitives?](#what-are-the-differences-between-primitives-and-non-primitives)        
+                    |
 | 441 | [What are hidden classes?](#what-are-hidden-classes)                                                                                                          |
 | 442 | [What is inline caching?](#what-is-inline-caching)                                                                                                            |
-| 443 | [How do you create your own bind method using either call or apply method?](#how-do-you-create-your-own-bind-method-using-either-call-or-apply-method)        |
-| 444 | [What are the differences between pure and impure functions?](#what-are-the-differences-between-pure-and-impure-functions?)                                   |
+| 443 | [How do you create your own bind method using either call or apply method?](#how-do-you-create-your-own-bind-method-using-either-call-or-apply-method)     
+   |
+| 444 | [What are the differences between pure and impure functions?](#what-are-the-differences-between-pure-and-impure-functions?) 
+                                  |
 | 445 | [What is referential transparency?](#what-is-referential-transparency)                                                                                        |
 | 446 | [What are the possible side-effects in javascript?](#what-are-the-possible-side-effects-in-javascript)                                                        |
 | 447 | [What are compose and pipe functions?](#what-are-compose-and-pipe-functions)                                                                                  |
