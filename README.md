@@ -480,7 +480,7 @@
 | 451 | [What is an undefined value in javaScript?]
 | (#what-is-an-undefined-value-in-javascript)  |        |    
 | 452 | [Will this result  crash (a[10] = 99;)?]
-(#Will-this-result-crash?)                               |
+(#Will-this-result-crash(a[10]=99;)?)                               |
 
 <!--Answers -->
 1. ### What are the possible ways to create objects in JavaScript
